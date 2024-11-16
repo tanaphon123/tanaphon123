@@ -5,6 +5,7 @@ Back-End Developer
 ------------------
 
 Worked at the Pixel Intigration company from February 1, 2024 to present => Work From Home
+
 Interned at SNC as a Back-End Developer for 7 months
 
 
