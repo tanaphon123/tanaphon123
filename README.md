@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-End Developer
 ------------------
 
-Worked at the Pixel Intigration company from February 1, 2024 to present => Work From Home
+Worked at the Pixel Intigration company as a Laravel FullStack Developer from February 1, 2024 to present => Work From Home
 
 Interned at SNC as a Back-End Developer for 7 months
 
