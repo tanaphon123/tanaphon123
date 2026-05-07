@@ -1,4 +1,4 @@
-# 👨‍💻 Tanaphon Intachai (Tan)
+# 👨‍💻 Tanaphon Intachai
 ### Full-Stack Laravel Developer | Data Enthusiast
 
 <p align="left">
@@ -8,13 +8,23 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working at **Pixel Integration** as a Full-Stack Laravel Developer.
-- 🎓 Former Back-End Developer Intern at **SNC** (7 months).
-- 🧠 Learning **Python & R** for Data Analytics.
-- 🐧 Proud **Linux Mint** & **Ubuntu** user.
+### 💼 Work Experience
+- **Full-Stack Laravel Developer** | Pixel Integration 
+  *(Feb 2024 - Jan 2026 · 2 years)*
+  - Developed and maintained web applications using Laravel, jQuery, Ajax, Bootstrap5, Oracle database.
+  - Worked remotely as a Full-Stack contributor.
 
+- **Back-End Developer (Intern)** | SNC
+  - Developed api for frontend using CodeIgniter4, MSSql, MongoDB, NodeRED.
+  *(7 months)*
+  
 ---
+
+- ### 🚀 About Me
+- 🎓 **Former Full-Stack Laravel Developer** at Pixel Integration (2024 - 2026).
+- 🔭 Open for new challenges and Full-Stack opportunities.
+- 🧠 Intensive learning **Python & R** for Data Analytics.
+- 🐧 Daily **Linux Mint** & **Ubuntu** user.
 
 ### 🛠️ Tech Stack
 
